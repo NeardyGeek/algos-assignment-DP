@@ -1,5 +1,6 @@
 /**
  * Rod cutting problem described in Chapter 15 of textbook
+   Author: Gen. Li
  */
 public class RodCutting {
 
